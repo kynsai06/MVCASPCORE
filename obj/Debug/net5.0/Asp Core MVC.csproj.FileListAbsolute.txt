@@ -1,0 +1,40 @@
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\Asp Core MVC.exe
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\Asp Core MVC.deps.json
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\Asp Core MVC.runtimeconfig.json
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\Asp Core MVC.runtimeconfig.dev.json
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\Asp Core MVC.dll
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\ref\Asp Core MVC.dll
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\Asp Core MVC.pdb
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\Asp Core MVC.Views.dll
+C:\Users\NIC\source\repos\Asp Core MVC\bin\Debug\net5.0\Asp Core MVC.Views.pdb
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.csproj.AssemblyReference.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.AssemblyInfoInputs.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.AssemblyInfo.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.csproj.CoreCompileInputs.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.RazorAssemblyInfo.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.RazorAssemblyInfo.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\staticwebassets\Asp Core MVC.StaticWebAssets.Manifest.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\staticwebassets\Asp Core MVC.StaticWebAssets.xml
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\scopedcss\bundle\Asp Core MVC.styles.css
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.TagHelpers.input.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.TagHelpers.output.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.RazorCoreGenerate.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.RazorTargetAssemblyInfo.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.RazorTargetAssemblyInfo.cs
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.Views.pdb
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.dll
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\ref\Asp Core MVC.dll
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.pdb
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.genruntimeconfig.cache
+C:\Users\NIC\source\repos\Asp Core MVC\obj\Debug\net5.0\Asp Core MVC.csproj.CopyComplete
